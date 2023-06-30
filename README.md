@@ -1,8 +1,11 @@
 ![MasterHead](https://png.pngtree.com/background/20211217/original/pngtree-matrix-digital-code-hacker-background-picture-image_1593618.jpg)
 <h1 align="center">Hi 👋, I'm Emir Kayra Acer</h1>
+- 📫 How to reach me **aceremirkayra@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/aceremirkayra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aceremirkayra" height="30" width="40" /></a>
+<a href="https://discord.gg/fronar." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="fronar." height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
