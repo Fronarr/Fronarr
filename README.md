@@ -13,5 +13,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fronarr&" alt="fronarr" /></p>
 
-![snake gif](https://github.com/Fronarr/Fronarr/blob/output/github-contribution-grid-snake.gif)
+
 
