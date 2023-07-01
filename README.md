@@ -4,7 +4,7 @@
 
 - 📫 How to reach me **aceremirkayra@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+###Connect with me
 <p align="left">
 <a href="https://instagram.com/aceremirkayra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aceremirkayra" height="30" width="40" /></a>
 </p>
