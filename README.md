@@ -13,9 +13,6 @@
  [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/wervlad) 
  
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fronarr&show_icons=true&locale=en&layout=compact" alt="fronarr" /></p>
-
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fronarr&show_icons=true&locale=en" alt="fronarr" /></p>
 
 
