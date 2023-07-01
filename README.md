@@ -12,10 +12,8 @@
 ### Languages 
  [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/Fronarr) 
 
+
  
- ![snake gif](https://github.com/Fronarr/Fronarr/blob/output/github-contribution-grid-snake.gif)
-
-
 <details> 
  <p align="center"> 
    <a href="https://github.com/Fronarr"> 
@@ -31,7 +29,10 @@
      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Fronarr&theme=transparent" /> 
    </a>
 
-   ![snake gif](https://github.com/Fronarr/Fronarr/blob/output/github-contribution-grid-snake.gif)
+
+
+
+![snake gif](https://github.com/Fronarr/Fronarr/blob/output/github-contribution-grid-snake.gif)
 
 
 
