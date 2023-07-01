@@ -28,4 +28,7 @@
      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Fronarr&theme=transparent" /> 
    </a>
 
-![snake gif](https://github.com/Fronarr/Fronarr/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://www.sify.com/wp-content/uploads/2022/09/snake_game_1200x574.gif)
+
+
+
