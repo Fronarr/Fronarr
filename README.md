@@ -14,7 +14,7 @@
 
 
  
-<details> 
+ <details> 
  <p align="center"> 
    <a href="https://github.com/Fronarr"> 
      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Fronarr&theme=transparent" /> 
@@ -28,11 +28,13 @@
    <a href="https://github.com/Fronarr"> 
      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Fronarr&theme=transparent" /> 
    </a>
-
-
-
-
+  
+  
+  
+  
 ![snake gif](https://github.com/Fronarr/Fronarr/blob/output/github-contribution-grid-snake.gif)
 
+
+   
 
 
