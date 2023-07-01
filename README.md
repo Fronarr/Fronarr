@@ -29,12 +29,6 @@
    </a> 
  </p> 
  </details> 
-  
- <p align="center"> 
-   <a href="https://github.com/Fronarr"> 
-     <img src="https://komarev.com/ghpvc/?username=Fronarr&color=blue&style=flat)" /> 
-   </a> 
- </p> 
- <!--
+
 
 ![snake gif](https://github.com/Fronarr/Fronarr/blob/output/github-contribution-grid-snake.gif)
