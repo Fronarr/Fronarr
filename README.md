@@ -22,10 +22,7 @@
      <img src="https://github-readme-streak-stats.herokuapp.com/?user=wervlad&hide_border=true&card_width=338&theme=transparent" /> 
    </a> 
    <a href="https://github.com/Fronarr"> 
-     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=wervlad&theme=transparent" /> 
-   </a> 
-   <a href="https://github.com/Fronarr"> 
-     <img  
+     <img   
 
 
 ![snake gif](https://github.com/Fronarr/Fronarr/blob/output/github-contribution-grid-snake.gif)
