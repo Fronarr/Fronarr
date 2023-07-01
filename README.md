@@ -13,10 +13,28 @@
  [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/wervlad) 
  
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fronarr&show_icons=true&locale=en" alt="fronarr" /></p>
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fronarr&" alt="fronarr" /></p>
-
+<details> 
+ <p align="center"> 
+   <a href="https://github.com/Fronarr"> 
+     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Fronarr&theme=transparent" /> 
+   </a> 
+   <a href="https://github.com/Fronarr"> 
+     <img src="https://github-readme-streak-stats.herokuapp.com/?user=wervlad&hide_border=true&card_width=338&theme=transparent" /> 
+   </a> 
+   <a href="https://github.com/Fronarr"> 
+     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=wervlad&theme=transparent" /> 
+   </a> 
+   <a href="https://github.com/Fronarr"> 
+     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fronarr&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=transparent" /> 
+   </a> 
+ </p> 
+ </details> 
+  
+ <p align="center"> 
+   <a href="https://github.com/Fronarr"> 
+     <img src="https://komarev.com/ghpvc/?username=Fronarr&color=blue&style=flat)" /> 
+   </a> 
+ </p> 
+ <!--
 
 ![snake gif](https://github.com/Fronarr/Fronarr/blob/output/github-contribution-grid-snake.gif)
