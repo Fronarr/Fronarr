@@ -1,4 +1,4 @@
-![snake gif](https://github.com/Fronarr/Fronarr/blob/output/github-contribution-grid-snake.svg)
+
 
 <h1 align="center">Hi 👋, I'm Emir Kayra Acer</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fronarr&label=Profile%20views&color=0e75b6&style=flat" alt="fronarr" /> </p>
