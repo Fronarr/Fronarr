@@ -1,6 +1,5 @@
 ![MasterHead](https://art.pixilart.com/16c3630a9147a08.gif)
 <h1 align="center">Hi 👋, I'm Emir Kayra Acer</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fronarr&label=Profile%20views&color=0e75b6&style=flat" alt="fronarr" /> </p>
 
 - 📫 How to reach me **aceremirkayra@gmail.com**
 
