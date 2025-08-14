@@ -7,9 +7,11 @@
 <p align="left">
 <a href="https://instagram.com/aceremirkayra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aceremirkayra" height="30" width="40" /></a>
 </p>
+
 <a href="https://x.com/Fronarr" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/X_logo_2023.svg" alt="X" width="25" height="25"/>
 </a>
+
 ### Languages 
  [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/Fronarr) 
 <details> 
