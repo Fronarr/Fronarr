@@ -1,15 +1,15 @@
 ![MasterHead](https://art.pixilart.com/16c3630a9147a08.gif)
-<h1 align="center">Hi 👋, I'm Emir Kayra Acer</h1>
+<h1 align="center">Hi, I'm Emir Kayra Acer</h1>
 
 - 📫 How to reach me **aceremirkayra@gmail.com**
 
 ### Connect with me
 <p align="left">
-  <a href="https://instagram.com/KULLANICI_ADIN" target="_blank">
+  <a href="https://instagram.com/KULLANICI_ADIN" target="_blank" style="text-decoration:none;">
     <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" alt="Instagram" width="25" height="25"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://x.com/KULLANICI_ADIN" target="_blank">
+  <a href="https://x.com/KULLANICI_ADIN" target="_blank" style="text-decoration:none;">
     <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" alt="X" width="25" height="25"/>
   </a>
 </p>
