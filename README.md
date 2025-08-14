@@ -5,11 +5,11 @@
 
 ### Connect with me
 <p align="left">
-  <a href="https://instagram.com/KULLANICI_ADIN" target="_blank">
+  <a href="https://instagram.com/aceremirkayra" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" alt="Instagram" width="25" height="25">
   </a>
   &nbsp;&nbsp;
-  <a href="https://x.com/KULLANICI_ADIN" target="_blank">
+  <a href="https://x.com/Fronarr" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" alt="X" width="25" height="25">
   </a>
 </p>
