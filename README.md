@@ -9,7 +9,7 @@
 </p>
 
 <a href="https://x.com/Fronarr" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/X_logo_2023.svg" alt="X" width="25" height="25"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" alt="X" width="25" height="25"/>
 </a>
 
 ### Languages 
