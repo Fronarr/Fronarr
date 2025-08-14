@@ -4,13 +4,8 @@
 - 📫 How to reach me **aceremirkayra@gmail.com**
 
 ### Connect with me
-<p align="left">
-  <a href="https://instagram.com/aceremirkayra" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/png100px/tr.png" alt="Instagram" width="25" height="25">
-  </a>
-  &nbsp;&nbsp;
   <a href="https://x.com/Fronarr" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/X_logo_2023.svg/120px-X_logo_2023.svg.png" alt="X" width="25" height="25">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" alt="X" width="25" height="25">
   </a>
 </p>
 
